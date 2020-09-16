@@ -1,6 +1,6 @@
 [![Banner](https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/banner.png)](https://aureleoules.com)
 
-<h3 align="center">Hello, I'm Aurèle 👋</h3>
+<h2 align="center">Hello, I'm Aurèle 👋</h2>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/aureleoules/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -13,7 +13,7 @@
 
 **🔧 Languages and tools**:
 <div>
-    <code><img height="20" src="./images/go.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/go.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
