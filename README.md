@@ -1,11 +1,11 @@
-[![Social banner for jh3y](./images/banner.png)](https://aureleoules.com)
+[![Banner](https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/banner.png)](https://aureleoules.com)
 
 <h3 align="center">Hello, I'm Aurèle 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/aureleoules/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://t.me/aureleoules" title="Telegram Profile"><img width="22" src="./images/telegram.svg"> Telegram</a></code>
-  <code><a href="https://www.instagram.com/aureleoules/" title="Instagram Profile"><img width="22" src="./images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/aureleoules/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://t.me/aureleoules" title="Telegram Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/telegram.svg"> Telegram</a></code>
+  <code><a href="https://www.instagram.com/aureleoules/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <p>My name is Aurèle Oulès, a self-employed Full Stack Developer from France. Currently studying at <a href="https://github.com/epita" target="_blank">@EPITA</a>.</p>
